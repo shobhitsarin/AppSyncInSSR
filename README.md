@@ -8,7 +8,7 @@ Steps to get Application running -
 2) Run "yarn start" to start next application
 
 Working -
-a) http://localhost:3000 is the url for home page
-b) http://localhost:3000/plpWithAppSync is the url for PLP with AppSync
+1) http://localhost:3000 is the url for home page
+2) http://localhost:3000/plpWithAppSync is the url for PLP with AppSync
 
 Navigating to PLP page using Header (on top of page) works fine but when PLP page is rendered on Server then it throws error.
