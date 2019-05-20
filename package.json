@@ -1,0 +1,31 @@
+{
+  "name": "@tcp/web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "next",
+    "build": "next build",
+    "next-start": "next start"
+  },
+  "dependencies": {
+    "apisauce": "^1.0.2",
+    "@babel/runtime": "^7.4.3",
+    "@babel/runtime-corejs2": "^7.4.3",
+    "aws-appsync": "^1.7.2",
+    "aws-appsync-react": "1.2.7",
+    "graphql": "^14.1.1",
+    "graphql-tag": "^2.10.1",
+    "next": "latest",
+    "next-redux-saga": "4.0.0",
+    "next-redux-wrapper": "^3.0.0-alpha.2",
+    "next-transpile-modules": "^2.0.0",
+    "react": "latest",
+    "react-apollo": "^2.5.2",
+    "react-dom": "latest",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-saga": "^1.0.2",
+    "styled-components": "^4.2.0"
+  },
+  "license": "ISC"
+}
