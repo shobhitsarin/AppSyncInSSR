@@ -2,7 +2,7 @@
 POC on React next for SSR
 
 
-Steps to get Web running -
+Steps to get Application running -
 
 1) Run "yarn" to install all npm dependencies
 2) Run "yarn start" to start next application
