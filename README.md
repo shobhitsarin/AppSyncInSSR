@@ -8,7 +8,7 @@ Steps to get Application running -
 2) Run "yarn start" to start next application
 
 Steps to Reproduce Error -
-http://localhost:3000/plpWithAppSync, Open this url in browser directly . It will throw error.
+Open http://localhost:3000/plpWithAppSync, url in browser directly, it renders the plp on server side and It will throw error.
 
 Navigating to PLP page using Header (on top of page) works fine
 
