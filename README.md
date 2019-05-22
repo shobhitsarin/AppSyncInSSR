@@ -11,4 +11,5 @@ Working -
 1) http://localhost:3000 is the url for home page
 2) http://localhost:3000/plpWithAppSync is the url for PLP with AppSync
 
-Navigating to PLP page using Header (on top of page) works fine but when PLP page is rendered on Server then it throws error.
+
+Navigating to PLP page using Header (on top of page) works fine but opening http://localhost:3000/plpWithAppSync in browser directly, renders the PLP Page on Server side and it throws error.
