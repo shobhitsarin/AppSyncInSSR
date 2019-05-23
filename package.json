@@ -8,11 +8,12 @@
     "next-start": "next start"
   },
   "dependencies": {
-    "apisauce": "^1.0.2",
     "@babel/runtime": "^7.4.3",
     "@babel/runtime-corejs2": "^7.4.3",
+    "apisauce": "^1.0.2",
     "aws-appsync": "^1.7.2",
     "aws-appsync-react": "1.2.7",
+    "exenv": "^1.2.2",
     "graphql": "^14.1.1",
     "graphql-tag": "^2.10.1",
     "next": "latest",
